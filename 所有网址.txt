@@ -25,8 +25,6 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 
 
 
-
-
 2018 年应届硕士毕业生如何拿到知名互联网公司深度学习 offer？ https://www.zhihu.com/question/59683332
 Python 深度学习 神经网络 强化学习 https://zhuanlan.zhihu.com/p/24869663
 考察深度学习基础知识的45道题目（附答案） http://blog.csdn.net/mingtian715/article/details/54798765
