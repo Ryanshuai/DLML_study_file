@@ -6,3 +6,4 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 深度学习岗位面试问题整理笔记	https://zhuanlan.zhihu.com/p/25005808
 如果你是面试官，你怎么去判断一个面试者的深度学习水平？	https://www.zhihu.com/question/41233373
 深度学习面试题系列，用于图像识别的深度残差网络	http://www.bigdataway.net/node/5405
+
