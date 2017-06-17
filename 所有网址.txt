@@ -13,3 +13,6 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 2016校招百度美团360机器学习岗面试经历 	https://www.nowcoder.com/discuss/3243
 深度学习相关的职位面试时一般会问什么	http://www.qingpingshan.com/bc/jsp/210082.html
 面试经验分享之机器学习、大数据问题	http://dataunion.org/7773.html
+人工智能和深度学习领域面试题系列，卷积神经网络的前世今生	http://mini.eastday.com/a/170312175553696.html
+互联网公司数据分析/挖掘面试机器学习面到的题目	http://www.echojb.com/news/2017/04/23/360168.html
+如何准备机器学习工程师的面试？	https://ask.hellobi.com/blog/guodongwei1991/7371
