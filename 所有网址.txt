@@ -1,4 +1,4 @@
-测试数据科学家的40个深度学习问题	https://zhuanlan.zhihu.com/p/27327052
+﻿测试数据科学家的40个深度学习问题	https://zhuanlan.zhihu.com/p/27327052
 机器学习及大数据相关面试的职责和面试问题	https://zhuanlan.zhihu.com/p/27151345
 谷歌微软等科技巨头数据科学面试107道真题：你能答出多少？		https://zhuanlan.zhihu.com/p/25860706
 Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
@@ -6,6 +6,7 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 深度学习岗位面试问题整理笔记	https://zhuanlan.zhihu.com/p/25005808
 如果你是面试官，你怎么去判断一个面试者的深度学习水平？	https://www.zhihu.com/question/41233373
 深度学习面试题系列，用于图像识别的深度残差网络	http://www.bigdataway.net/node/5405
+这40道面试题都答上来，你就能去机器学习初创公司当数据科学家了  http://www.kejilie.com/jiasuhui/article/iI7bYz.html
 作为面试官，如何判断一个面试者的深度学习水平？	http://www.sohu.com/a/141597059_491255
 不容错过的50道机器学习面试题及答案	http://www.ppvke.com/Blog/archives/38175
 深度学习面试问题	http://www.voidcn.com/blog/keyanxiaocaicai/article/p-6553510.html
@@ -16,15 +17,21 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 人工智能和深度学习领域面试题系列，卷积神经网络的前世今生	http://mini.eastday.com/a/170312175553696.html
 互联网公司数据分析/挖掘面试机器学习面到的题目	http://www.echojb.com/news/2017/04/23/360168.html
 如何准备机器学习工程师的面试？	https://ask.hellobi.com/blog/guodongwei1991/7371
-
-
-
-
-
-
-
-
-
+深度学习相关的职位面试时一般会问什么？会问一些传统的机器学习算法吗？ https://www.zhihu.com/question/54308150
+机器学习能力自测题—看看你的机器学习知识能打几分？不容错过的机器学习试题与术语  http://nooverfit.com/wp/12-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%83%BD%E5%8A%9B%E8%87%AA%E6%B5%8B%E9%A2%98-%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9F%A5%E8%AF%86%E8%83%BD%E6%89%93/
+机器学习 常见面试题 总结  http://nooverfit.com/wp/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0-%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98/
+机器学习求职 http://www.jianshu.com/p/ce6d756626db
+百度2014校园招聘笔试题 ——深度学习算法研发工程师.  http://blog.csdn.net/luoweifu/article/details/12685169
+白面网 http://www.100mian.com/?s=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0
+不容错过的50道机器学习面试题及答案 http://www.ppvke.com/Blog/archives/38175
+常见机器学习面试题 http://blog.csdn.net/xbmatrix/article/details/62056589
+机器学习面试 http://www.cnblogs.com/zhehan54/p/6362305.html
+15道机器学习面试题，让你顺利得到offer!  http://blog.csdn.net/dashenghuahua/article/details/53841630
+【笔试面试】美图2015计算机视觉工程师实习生 http://blog.csdn.net/chenriwei2/article/details/46290503
+地平线机器人面经（已拿offer，算法岗，计算机视觉方向） http://www.zheyibu.com/article/5626.html
+考察深度学习基础知识的45道题目（附答案） http://blog.csdn.net/zchang81/article/details/71171127
+关于深度学习，这57个专业术语，你必须得知道 http://www.sohu.com/a/128865553_464033
 2018 年应届硕士毕业生如何拿到知名互联网公司深度学习 offer？ https://www.zhihu.com/question/59683332
 Python 深度学习 神经网络 强化学习 https://zhuanlan.zhihu.com/p/24869663
 考察深度学习基础知识的45道题目（附答案） http://blog.csdn.net/mingtian715/article/details/54798765
+
