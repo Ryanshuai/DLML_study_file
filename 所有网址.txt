@@ -6,3 +6,10 @@ Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
 深度学习岗位面试问题整理笔记	https://zhuanlan.zhihu.com/p/25005808
 如果你是面试官，你怎么去判断一个面试者的深度学习水平？	https://www.zhihu.com/question/41233373
 深度学习面试题系列，用于图像识别的深度残差网络	http://www.bigdataway.net/node/5405
+作为面试官，如何判断一个面试者的深度学习水平？	http://www.sohu.com/a/141597059_491255
+不容错过的50道机器学习面试题及答案	http://www.ppvke.com/Blog/archives/38175
+深度学习面试问题	http://www.voidcn.com/blog/keyanxiaocaicai/article/p-6553510.html
+深度学习相关的职位面试时一般会问什么？会问一些传统的机器学习算法吗？	https://www.zhihu.com/question/54308150
+2016校招百度美团360机器学习岗面试经历 	https://www.nowcoder.com/discuss/3243
+深度学习相关的职位面试时一般会问什么	http://www.qingpingshan.com/bc/jsp/210082.html
+面试经验分享之机器学习、大数据问题	http://dataunion.org/7773.html
