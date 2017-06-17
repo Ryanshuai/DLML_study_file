@@ -2,6 +2,8 @@
 机器学习及大数据相关面试的职责和面试问题	https://zhuanlan.zhihu.com/p/27151345
 谷歌微软等科技巨头数据科学面试107道真题：你能答出多少？		https://zhuanlan.zhihu.com/p/25860706
 Tensorflow · LinearSVM		https://zhuanlan.zhihu.com/p/26645181
+如何准备机器学习工程师的面试 ？ 	https://www.zhihu.com/question/23259302
+深度学习岗位面试问题整理笔记	https://zhuanlan.zhihu.com/p/25005808
+如果你是面试官，你怎么去判断一个面试者的深度学习水平？	https://www.zhihu.com/question/41233373
+深度学习面试题系列，用于图像识别的深度残差网络	http://www.bigdataway.net/node/5405
 
-
-sdfffffggggggggggggggggggg
